@@ -1,6 +1,3 @@
-Flask==1.1.1
-Flask-Classful @ git+https://github.com/teracyhq/flask-classful.git@3bbab31705b4aa2903e7e62aa8c5ee70a1e6d789
-Flask-Cors==3.0.10
 Flask-Migrate==2.7.0
 Flask-SocketIO==4.2.1
 Flask-SQLAlchemy==2.5.1
@@ -8,14 +5,8 @@ flatbuffers==1.12
 folium==0.12.1
 Frozen-Flask==0.15
 jdcal==1.4.1
-python-dateutil==2.8.1
-python-dotenv==0.17.1
-python-editor==1.0.4
-python-engineio==3.11.2
-python-jose==3.2.0
-python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1600278539111/work
-python-language-server @ file:///tmp/build/80754af9/python-language-server_1600454544709/work
-python-multipart==0.0.5
-python-socketio==4.4.0
-virtualenv==20.14.1
-voluptuous==0.12.1
+et-xmlfile==1.0.1
+Flask==1.1.2
+Flask-BasicAuth==0.2.0
+pycparser==2.20
+pytz==2020.1
